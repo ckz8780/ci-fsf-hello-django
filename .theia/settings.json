@@ -3,5 +3,6 @@
    "python.linting.enabled": true,
    "python.linting.pep8Enabled": false,
    "python.linting.flake8Enabled": true,
-    "python.terminal.activateEnvironment": false
+    "python.terminal.activateEnvironment": false,
+    "python.pythonPath": "/home/gitpod/.pyenv/versions/3.7.6/bin/python"
 }
